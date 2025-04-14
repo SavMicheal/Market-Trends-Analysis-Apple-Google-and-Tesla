@@ -1,4 +1,4 @@
-# Market-Trends-Analysis-Apple-Google-and-Tesla
+# Market-Trends-Analysis
 
 
 ## Overview
