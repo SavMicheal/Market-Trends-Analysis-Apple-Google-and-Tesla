@@ -6,6 +6,10 @@ This project analyzes historical financial data for:
 - **Apple (AAPL)**
 - **Google (GOOGL)**
 - **Tesla (TSLA)**
+
+---
+
+## Dataset
 Data was collected using the `yfinance` library from Yahoo Finance. The goal is to explore price trends and volatility among the stocks from 2023 - 2024. The dataset contains 502 rows and 3 columns
 
 ---
